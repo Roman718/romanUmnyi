@@ -1,0 +1,16 @@
+ul{
+    margin-bottom: 0;
+}
+ul li{
+    list-style: none;
+}
+.nav-items{
+    display: flex;
+}
+.item{
+    margin-right: 15px;
+    color: white;
+}
+.Logo{
+    color: white;
+}
